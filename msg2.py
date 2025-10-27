@@ -1,0 +1,1 @@
+print("LEGEIGELGIG LEGIG !!!!!XAXA!")
